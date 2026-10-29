@@ -1,0 +1,21 @@
+[project]
+name = "ncep-cpc-global-ir-4km-2026-10"
+version = "0.1.0"
+description = "Frozen one-week window (2026-10-20 to 2026-10-26 UTC, hourly) of the NCEP/CPC 4 km global merged IR brightness temperature, as published by NOAA CPC"
+requires-python = ">=3.12"
+dependencies = ["huggingface-hub>=2.2.0", "numpy>=2.0"]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1", "ruff>=0.16.9"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["scripts"]
