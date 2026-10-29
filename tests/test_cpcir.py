@@ -45,3 +45,21 @@ def test_decoded_size_is_two_records_of_the_grid():
 def test_vintage_is_the_last_modified_month():
     rows = cpcir.parse_listing(LISTING)
     assert cpcir.vintage_month(rows) == "2026-10"
+
+
+def test_decode_stats_reads_two_records_and_adds_75():
+    import numpy as np
+
+    a = np.full((2, cpcir.NY, cpcir.NX), 100, dtype=np.uint8)
+    a[0, 0, 0] = 255
+    a[1, 0, 0] = 10
+    st = cpcir.decode_stats(a.tobytes())
+    assert st["records"][0] == {"undefined_pixels": 1, "min_K": 175, "max_K": 175}
+    assert st["records"][1]["min_K"] == 85 and st["records_differ"]
+
+
+def test_decode_stats_rejects_a_truncated_file():
+    import pytest
+
+    with pytest.raises(ValueError):
+        cpcir.decode_stats(b"\x00" * 10)

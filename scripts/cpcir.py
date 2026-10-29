@@ -51,3 +51,21 @@ def sha256(path: Path) -> str:
         for chunk in iter(lambda: f.read(1 << 20), b""):
             h.update(chunk)
     return h.hexdigest()
+
+
+def decode_stats(raw: bytes) -> dict:
+    """Per record (:00 and :30): min and max stored value, undefined pixels (255), brightness K = stored + 75."""
+    import numpy as np
+
+    if len(raw) != DECODED_BYTES:
+        raise ValueError(f"{len(raw)} bytes, expected {DECODED_BYTES}")
+    a = np.frombuffer(raw, dtype=np.uint8).reshape(RECORDS, NY, NX)
+    out = []
+    for rec in a:
+        ok = rec[rec != 255]
+        out.append({
+            "undefined_pixels": int((rec == 255).sum()),
+            "min_K": int(ok.min()) + 75 if ok.size else None,
+            "max_K": int(ok.max()) + 75 if ok.size else None,
+        })  # fmt: skip
+    return {"records": out, "records_differ": bool((a[0] != a[1]).any())}
