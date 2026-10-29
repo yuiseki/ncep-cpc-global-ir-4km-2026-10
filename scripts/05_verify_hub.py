@@ -46,8 +46,7 @@ def main() -> int:
             decoded_ok += 1
     out |= {
         "files_checked": len(rev["sha256"]),
-        "netcdf_files": len(idx),
-        "time_steps": steps,
+        "decoded_checked": decoded_ok,
         "problems": bad,
     }
     (ROOT / "docs" / "verify_hub.json").write_text(json.dumps(out, indent=1) + "\n")
