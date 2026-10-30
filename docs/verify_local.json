@@ -1,0 +1,2529 @@
+{
+ "files": 168,
+ "problems": [],
+ "undefined_pixels_total": 232116042,
+ "min_K_overall": 168,
+ "max_K_overall": 329,
+ "per_file": {
+  "merg_2026102000_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669867,
+     "min_K": 187,
+     "max_K": 319
+    },
+    {
+     "undefined_pixels": 666902,
+     "min_K": 187,
+     "max_K": 322
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102001_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 663498,
+     "min_K": 187,
+     "max_K": 325
+    },
+    {
+     "undefined_pixels": 659709,
+     "min_K": 186,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102002_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 656169,
+     "min_K": 186,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 653126,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102003_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 652563,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 650765,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102004_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 647328,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 650961,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102005_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 4311357,
+     "min_K": 169,
+     "max_K": 318
+    },
+    {
+     "undefined_pixels": 645110,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102006_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 644732,
+     "min_K": 185,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 649116,
+     "min_K": 181,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102007_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 652180,
+     "min_K": 185,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 654922,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102008_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 651796,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 654028,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102009_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 653912,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 655209,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102010_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 654655,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 653323,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102011_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 653446,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 652054,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102012_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 647809,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 647958,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102013_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 648082,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 647974,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102014_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 797593,
+     "min_K": 184,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 651017,
+     "min_K": 184,
+     "max_K": 325
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102015_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 649695,
+     "min_K": 184,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 647930,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102016_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 648234,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 650477,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102017_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 651851,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 651814,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102018_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 652690,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 652149,
+     "min_K": 186,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102019_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 654648,
+     "min_K": 184,
+     "max_K": 325
+    },
+    {
+     "undefined_pixels": 657204,
+     "min_K": 186,
+     "max_K": 321
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102020_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 658094,
+     "min_K": 185,
+     "max_K": 317
+    },
+    {
+     "undefined_pixels": 658132,
+     "min_K": 185,
+     "max_K": 316
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102021_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 658537,
+     "min_K": 185,
+     "max_K": 315
+    },
+    {
+     "undefined_pixels": 658984,
+     "min_K": 184,
+     "max_K": 314
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102022_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 664494,
+     "min_K": 184,
+     "max_K": 317
+    },
+    {
+     "undefined_pixels": 667008,
+     "min_K": 185,
+     "max_K": 312
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102023_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669886,
+     "min_K": 186,
+     "max_K": 311
+    },
+    {
+     "undefined_pixels": 675048,
+     "min_K": 184,
+     "max_K": 314
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102100_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 671850,
+     "min_K": 186,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 666038,
+     "min_K": 187,
+     "max_K": 319
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102101_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 663690,
+     "min_K": 184,
+     "max_K": 321
+    },
+    {
+     "undefined_pixels": 663756,
+     "min_K": 186,
+     "max_K": 324
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102102_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 661679,
+     "min_K": 183,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 656544,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102103_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 655931,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 657050,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102104_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 656134,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 661011,
+     "min_K": 181,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102105_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 658337,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 662197,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102106_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667902,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 673324,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102107_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 675335,
+     "min_K": 186,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 678296,
+     "min_K": 185,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102108_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 680153,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 684281,
+     "min_K": 188,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102109_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 686330,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 684773,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102110_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 685288,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 687422,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102111_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 686729,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 685372,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102112_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 686674,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 689496,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102113_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 690490,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 691991,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102114_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 690542,
+     "min_K": 184,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 689325,
+     "min_K": 185,
+     "max_K": 325
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102115_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 687197,
+     "min_K": 182,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 682980,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102116_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 683018,
+     "min_K": 180,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 682994,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102117_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 683190,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 681946,
+     "min_K": 181,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102118_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 684581,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 685714,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102119_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 684810,
+     "min_K": 184,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 684617,
+     "min_K": 180,
+     "max_K": 325
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102120_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 685287,
+     "min_K": 181,
+     "max_K": 319
+    },
+    {
+     "undefined_pixels": 683212,
+     "min_K": 182,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102121_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681406,
+     "min_K": 180,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 682006,
+     "min_K": 179,
+     "max_K": 315
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102122_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681821,
+     "min_K": 181,
+     "max_K": 313
+    },
+    {
+     "undefined_pixels": 682865,
+     "min_K": 181,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102123_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678059,
+     "min_K": 179,
+     "max_K": 312
+    },
+    {
+     "undefined_pixels": 672423,
+     "min_K": 180,
+     "max_K": 311
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102200_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 668153,
+     "min_K": 179,
+     "max_K": 314
+    },
+    {
+     "undefined_pixels": 661965,
+     "min_K": 178,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102201_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 659369,
+     "min_K": 182,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 657520,
+     "min_K": 181,
+     "max_K": 325
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102202_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 653018,
+     "min_K": 181,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 649059,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102203_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 643976,
+     "min_K": 182,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 638188,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102204_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 636495,
+     "min_K": 182,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 638663,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102205_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 640928,
+     "min_K": 181,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 641961,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102206_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 644802,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 647747,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102207_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 651921,
+     "min_K": 186,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 650557,
+     "min_K": 184,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102208_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 647764,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 644202,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102209_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 638706,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 636409,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102210_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 635988,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 637273,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102211_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 641009,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 644639,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102212_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 645413,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 646451,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102213_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 646247,
+     "min_K": 181,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 649709,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102214_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 654333,
+     "min_K": 183,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 652826,
+     "min_K": 182,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102215_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 651942,
+     "min_K": 182,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 651168,
+     "min_K": 168,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102216_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 652183,
+     "min_K": 182,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 653557,
+     "min_K": 180,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102217_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 656694,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 654394,
+     "min_K": 181,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102218_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 656381,
+     "min_K": 184,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 655873,
+     "min_K": 181,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102219_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 655606,
+     "min_K": 184,
+     "max_K": 324
+    },
+    {
+     "undefined_pixels": 659287,
+     "min_K": 184,
+     "max_K": 322
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102220_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 660002,
+     "min_K": 183,
+     "max_K": 318
+    },
+    {
+     "undefined_pixels": 4305726,
+     "min_K": 184,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102221_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674089,
+     "min_K": 185,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 677119,
+     "min_K": 185,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102222_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 679683,
+     "min_K": 183,
+     "max_K": 314
+    },
+    {
+     "undefined_pixels": 678911,
+     "min_K": 183,
+     "max_K": 314
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102223_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678783,
+     "min_K": 183,
+     "max_K": 313
+    },
+    {
+     "undefined_pixels": 677754,
+     "min_K": 181,
+     "max_K": 312
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102300_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678953,
+     "min_K": 183,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 675912,
+     "min_K": 181,
+     "max_K": 319
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102301_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673309,
+     "min_K": 184,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 667952,
+     "min_K": 183,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102302_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 668715,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 669311,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102303_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 668440,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 668247,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102304_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 664836,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 665706,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102305_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 664910,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 663336,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102306_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 662028,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 660901,
+     "min_K": 188,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102307_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667178,
+     "min_K": 186,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 669521,
+     "min_K": 185,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102308_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674769,
+     "min_K": 185,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 676949,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102309_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678254,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 680839,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102310_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 680405,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 674101,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102311_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 677675,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 677730,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102312_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678912,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 680498,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102313_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681828,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 681742,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102314_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681137,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 677992,
+     "min_K": 187,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102315_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 676641,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 678028,
+     "min_K": 186,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102316_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 680436,
+     "min_K": 185,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 680260,
+     "min_K": 186,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102317_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 680404,
+     "min_K": 186,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 678994,
+     "min_K": 185,
+     "max_K": 324
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102318_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 677192,
+     "min_K": 184,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 673752,
+     "min_K": 184,
+     "max_K": 323
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102319_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669920,
+     "min_K": 186,
+     "max_K": 320
+    },
+    {
+     "undefined_pixels": 670446,
+     "min_K": 185,
+     "max_K": 319
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102320_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 668788,
+     "min_K": 185,
+     "max_K": 318
+    },
+    {
+     "undefined_pixels": 666212,
+     "min_K": 182,
+     "max_K": 318
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102321_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667376,
+     "min_K": 186,
+     "max_K": 317
+    },
+    {
+     "undefined_pixels": 668261,
+     "min_K": 183,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102322_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 670719,
+     "min_K": 185,
+     "max_K": 314
+    },
+    {
+     "undefined_pixels": 676476,
+     "min_K": 184,
+     "max_K": 316
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102323_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678608,
+     "min_K": 186,
+     "max_K": 313
+    },
+    {
+     "undefined_pixels": 679719,
+     "min_K": 186,
+     "max_K": 312
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102400_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 677950,
+     "min_K": 186,
+     "max_K": 315
+    },
+    {
+     "undefined_pixels": 673607,
+     "min_K": 186,
+     "max_K": 320
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102401_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669284,
+     "min_K": 185,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 665809,
+     "min_K": 185,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102402_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 663166,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 655694,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102403_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 650580,
+     "min_K": 182,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 645218,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102404_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 644841,
+     "min_K": 182,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 648273,
+     "min_K": 180,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102405_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 655154,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 662938,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102406_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667290,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 670541,
+     "min_K": 188,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102407_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673607,
+     "min_K": 186,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 675660,
+     "min_K": 186,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102408_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674925,
+     "min_K": 186,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 677439,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102409_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681716,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 683866,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102410_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681174,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 676796,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102411_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 676169,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 677596,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102412_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 678177,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 676849,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102413_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 675877,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 674038,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102414_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674452,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 673329,
+     "min_K": 186,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102415_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 671476,
+     "min_K": 186,
+     "max_K": 325
+    },
+    {
+     "undefined_pixels": 672231,
+     "min_K": 186,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102416_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669421,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 668792,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102417_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 671709,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 673310,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102418_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673899,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 671632,
+     "min_K": 186,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102419_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669189,
+     "min_K": 186,
+     "max_K": 324
+    },
+    {
+     "undefined_pixels": 667224,
+     "min_K": 185,
+     "max_K": 322
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102420_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667840,
+     "min_K": 182,
+     "max_K": 317
+    },
+    {
+     "undefined_pixels": 667752,
+     "min_K": 182,
+     "max_K": 316
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102421_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667583,
+     "min_K": 183,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 669920,
+     "min_K": 184,
+     "max_K": 314
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102422_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673438,
+     "min_K": 185,
+     "max_K": 312
+    },
+    {
+     "undefined_pixels": 672728,
+     "min_K": 184,
+     "max_K": 310
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102423_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 671239,
+     "min_K": 185,
+     "max_K": 312
+    },
+    {
+     "undefined_pixels": 670907,
+     "min_K": 181,
+     "max_K": 311
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102500_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 665653,
+     "min_K": 184,
+     "max_K": 315
+    },
+    {
+     "undefined_pixels": 666237,
+     "min_K": 184,
+     "max_K": 319
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102501_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 666780,
+     "min_K": 185,
+     "max_K": 322
+    },
+    {
+     "undefined_pixels": 665442,
+     "min_K": 184,
+     "max_K": 325
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102502_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 663324,
+     "min_K": 181,
+     "max_K": 327
+    },
+    {
+     "undefined_pixels": 657973,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102503_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 652350,
+     "min_K": 182,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 647443,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102504_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 644011,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 639927,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102505_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 638838,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 639821,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102506_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 639167,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 642093,
+     "min_K": 184,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102507_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 644221,
+     "min_K": 185,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 649850,
+     "min_K": 187,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102508_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 651514,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 656107,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102509_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 661294,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 665561,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102510_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667293,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 666411,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102511_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 669894,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 677550,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102512_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681120,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 685545,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102513_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 690558,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 691625,
+     "min_K": 188,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102514_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 692302,
+     "min_K": 184,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 696088,
+     "min_K": 186,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102515_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 698462,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 700036,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102516_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 701678,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 701118,
+     "min_K": 182,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102517_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 699993,
+     "min_K": 183,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 697586,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102518_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 695158,
+     "min_K": 180,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 692062,
+     "min_K": 184,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102519_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 689892,
+     "min_K": 183,
+     "max_K": 324
+    },
+    {
+     "undefined_pixels": 693966,
+     "min_K": 183,
+     "max_K": 319
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102520_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 690798,
+     "min_K": 182,
+     "max_K": 318
+    },
+    {
+     "undefined_pixels": 689476,
+     "min_K": 184,
+     "max_K": 318
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102521_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 685396,
+     "min_K": 184,
+     "max_K": 318
+    },
+    {
+     "undefined_pixels": 683657,
+     "min_K": 185,
+     "max_K": 317
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102522_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 682777,
+     "min_K": 184,
+     "max_K": 315
+    },
+    {
+     "undefined_pixels": 682679,
+     "min_K": 187,
+     "max_K": 312
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102523_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 680384,
+     "min_K": 183,
+     "max_K": 312
+    },
+    {
+     "undefined_pixels": 679082,
+     "min_K": 185,
+     "max_K": 312
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102600_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 677362,
+     "min_K": 186,
+     "max_K": 316
+    },
+    {
+     "undefined_pixels": 678236,
+     "min_K": 185,
+     "max_K": 320
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102601_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 676978,
+     "min_K": 185,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 673148,
+     "min_K": 185,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102602_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 666777,
+     "min_K": 186,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 667879,
+     "min_K": 187,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102603_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 670377,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 671836,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102604_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 670958,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 671865,
+     "min_K": 183,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102605_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674208,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 674585,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102606_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 674535,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 672562,
+     "min_K": 186,
+     "max_K": 328
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102607_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673093,
+     "min_K": 184,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 667054,
+     "min_K": 187,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102608_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 666031,
+     "min_K": 185,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 668762,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102609_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 667425,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 666129,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102610_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 666401,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 669205,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102611_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 668701,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 669062,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102612_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 670576,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 671409,
+     "min_K": 186,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102613_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 673213,
+     "min_K": 187,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 675048,
+     "min_K": 184,
+     "max_K": 327
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102614_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 675475,
+     "min_K": 184,
+     "max_K": 325
+    },
+    {
+     "undefined_pixels": 678923,
+     "min_K": 185,
+     "max_K": 322
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102615_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 681398,
+     "min_K": 183,
+     "max_K": 326
+    },
+    {
+     "undefined_pixels": 686188,
+     "min_K": 184,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102616_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 684740,
+     "min_K": 186,
+     "max_K": 329
+    },
+    {
+     "undefined_pixels": 681856,
+     "min_K": 185,
+     "max_K": 329
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102617_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 685019,
+     "min_K": 183,
+     "max_K": 328
+    },
+    {
+     "undefined_pixels": 684323,
+     "min_K": 184,
+     "max_K": 326
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102618_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 686149,
+     "min_K": 182,
+     "max_K": 323
+    },
+    {
+     "undefined_pixels": 687004,
+     "min_K": 183,
+     "max_K": 323
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102619_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 689098,
+     "min_K": 183,
+     "max_K": 319
+    },
+    {
+     "undefined_pixels": 691281,
+     "min_K": 181,
+     "max_K": 320
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102620_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 693249,
+     "min_K": 182,
+     "max_K": 321
+    },
+    {
+     "undefined_pixels": 695016,
+     "min_K": 183,
+     "max_K": 321
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102621_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 698930,
+     "min_K": 184,
+     "max_K": 320
+    },
+    {
+     "undefined_pixels": 697329,
+     "min_K": 184,
+     "max_K": 318
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102622_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 698563,
+     "min_K": 183,
+     "max_K": 317
+    },
+    {
+     "undefined_pixels": 695574,
+     "min_K": 183,
+     "max_K": 314
+    }
+   ],
+   "records_differ": true
+  },
+  "merg_2026102623_4km-pixel.Z": {
+   "records": [
+    {
+     "undefined_pixels": 691325,
+     "min_K": 182,
+     "max_K": 312
+    },
+    {
+     "undefined_pixels": 689827,
+     "min_K": 185,
+     "max_K": 309
+    }
+   ],
+   "records_differ": true
+  }
+ }
+}

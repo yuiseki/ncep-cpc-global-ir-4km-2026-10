@@ -1,0 +1,14 @@
+Terms for the files of the NCEP/CPC 4 km global merged IR (merg_YYYYMMDDHH_4km-pixel.Z).
+
+The Climate Prediction Center data page (https://www.cpc.ncep.noaa.gov/products/global_precip/html/wpage.full_res.html)
+links the NWS disclaimer (https://www.weather.gov/disclaimer), which says, copied on 2026-10-29:
+
+  The information on National Weather Service (NWS) Web pages are in the public domain, unless specifically noted otherwise, and may be used without charge for any lawful purpose so long as you do not: 1) claim it is your own (e.g., by claiming copyright for NWS information -- see below), 2) use it in a manner that implies an endorsement or affiliation with NOAA/NWS, or 3) modify its content and then present it as official government material. You also cannot present information of your own in a way that makes it appear to be official government information.
+
+Reference given on the CPC data page:
+  Janowiak, J. E., R. J. Joyce, and Y. Yarosh, 2001: A Real-Time Global Half-hourly Pixel-Resolution Infrared Dataset and Its Applications. Bull. Amer. Meteor. Soc., 82(2), 205-217.
+
+The files themselves carry no licence text, and the disclaimer is written for NWS web pages and servers. The maintainer
+of this repository (yuiseki) treats these conditions, together with the citation, as equivalent to CC BY style
+attribution; that is the maintainer's reading, not a statement by NOAA. No endorsement by NOAA/NWS is implied. The data
+are provided as published, without warranty.

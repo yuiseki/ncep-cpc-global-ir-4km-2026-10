@@ -1,0 +1,16 @@
+dataset: ncep-cpc-global-ir-4km-2026-10
+source:
+  provider: NOAA/NWS/NCEP Climate Prediction Center
+  data_page: https://www.cpc.ncep.noaa.gov/products/global_precip/html/wpage.full_res.html
+  files: https://ftp.cpc.ncep.noaa.gov/precip/global_full_res_IR/
+  documentation: https://www.cpc.ncep.noaa.gov/products/global_precip/html/README
+  product: global (60N-60S) merged IR brightness temperature, 4 km, half-hourly records in hourly files
+window_utc: [2026-10-20T00:00:00, 2026-10-26T23:00:00]
+acquired_utc: 2026-10-29T04:50:34.831411+00:00
+vintage_month: "2026-10"
+files: 168
+bytes: 4549422842
+checksums: MANIFEST.json (sha256 computed by us; the provider publishes none)
+changes: none to the .Z files; index.tsv, docs/ and MANIFEST.json are added
+terms: LICENSE (NWS disclaimer conditions; maintainer treats them with the citation as CC BY equivalent attribution)
+scripts: https://github.com/yuiseki/ncep-cpc-global-ir-4km-2026-10
